@@ -18,8 +18,7 @@ you can deploy the `.zip` package directly in your browser using Developer Mode.
 使用步骤：
 1.[下载最新zip包]([Release 第一个版本 · xijunww/BingRewards-Automator](https://github.com/xijunww/BingRewards-Automator/releases/tag/1.0))，并解压
 
-2.加载解压之后的文件![image-20251021183423534](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20251021183423534.png)
+2.加载解压之后的文件
 
 3.添加拓展到edge完成
 
-![image-20251021183744149](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20251021183744149.png)
