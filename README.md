@@ -16,6 +16,7 @@ you can deploy the `.zip` package directly in your browser using Developer Mode.
 
 
 ###### **使用步骤：**
+0.[欢迎使用Microsoft Rewards](https://rewards.bing.com/welcome?rh=863B0609&ref=rafsrchae)
 
 1.[下载最新zip包](https://github.com/xijunww/BingRewards-Automator/releases/tag/1.0)，并解压
 
