@@ -31,3 +31,7 @@ you can deploy the `.zip` package directly in your browser using Developer Mode.
 3.添加拓展到edge完成
 
 ![](https://github.com/xijunww/BingRewards-Automator/blob/master/img/image-20251021183744149.png)
+
+4.美美撤离
+
+![](https://github.com/xijunww/BingRewards-Automator/blob/master/img/image.png)
