@@ -19,7 +19,14 @@ you can deploy the `.zip` package directly in your browser using Developer Mode.
 
 1.[下载最新zip包](https://github.com/xijunww/BingRewards-Automator/releases/tag/1.0)，并解压
 
+
+
 2.加载解压之后的文件
+
+![](https://github.com/xijunww/BingRewards-Automator/blob/master/img/image-20251021183423534.png)
+
+
 
 3.添加拓展到edge完成
 
+![](https://github.com/xijunww/BingRewards-Automator/blob/master/img/image-20251021183744149.png)
