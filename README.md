@@ -13,7 +13,10 @@ you can deploy the `.zip` package directly in your browser using Developer Mode.
 
 您可以使用开发者模式直接在浏览器中部署 `.zip` 包。
 
+###### **手机版本**
+0.[欢迎使用Microsoft Rewards](https://rewards.bing.com/welcome?rh=863B0609&ref=rafsrchae)
 
+1.[使用油猴脚本](https://greasyfork.org/zh-CN/scripts/553284-%E8%87%AA%E5%8A%A8%E9%A1%B5%E9%9D%A2%E8%AE%BF%E9%97%AE%E5%99%A8-auto-page-visitor)
 
 ###### **使用步骤：**
 0.[欢迎使用Microsoft Rewards](https://rewards.bing.com/welcome?rh=863B0609&ref=rafsrchae)
@@ -38,8 +41,5 @@ you can deploy the `.zip` package directly in your browser using Developer Mode.
 
 
 
-###### **手机版本**
-0.[欢迎使用Microsoft Rewards](https://rewards.bing.com/welcome?rh=863B0609&ref=rafsrchae)
 
-1.[使用油猴脚本](https://greasyfork.org/zh-CN/scripts/553284-%E8%87%AA%E5%8A%A8%E9%A1%B5%E9%9D%A2%E8%AE%BF%E9%97%AE%E5%99%A8-auto-page-visitor)
 
