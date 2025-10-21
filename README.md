@@ -3,7 +3,7 @@
 
 Chrome / Edge extension for **Automatic Bing Search**. 
 
-用于**自动必应搜索**的 Chrome / Edge 扩展程序。
+用于自动执行多次**必应搜索**的 Edge 扩展程序。
 
 This extension automatically performs 90 search on Bing with a 6000ms delay between each search.
 
