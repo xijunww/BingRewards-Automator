@@ -25,9 +25,9 @@ you can deploy the `.zip` package directly in your browser using Developer Mode.
 
 
 
-2.加载解压之后的文件
+2.先开启开发者模式，再加载解压之后的文件
 
-![](https://github.com/xijunww/BingRewards-Automator/blob/master/img/image-20251021183423534.png)
+![](https://github.com/xijunww/BingRewards-Automator/blob/master/img/image.png)
 
 
 
