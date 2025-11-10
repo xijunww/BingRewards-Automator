@@ -37,7 +37,7 @@ you can deploy the `.zip` package directly in your browser using Developer Mode.
 
 4.美美撤离
 
-![](https://github.com/xijunww/BingRewards-Automator/blob/master/img/image.png)
+![](https://github.com/xijunww/BingRewards-Automator/blob/master/img/肯德基100元礼品图片.png)
 
 
 
